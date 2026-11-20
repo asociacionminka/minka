@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#123f54"/><stop offset=".55" stop-color="#24426f"/><stop offset="1" stop-color="#784493"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="url(#g)"/><circle cx="24" cy="22" r="6" fill="#fff"/><circle cx="40" cy="22" r="6" fill="#f1a8d0"/><path d="M14 46c0-8 4.5-13 10-13s10 5 10 13M30 46c0-8 4.5-13 10-13s10 5 10 13" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="170 90 756 705">
+  <!-- Cabezas -->
+  <circle cx="293" cy="228" r="80" fill="#3a879e"/>
+  <circle cx="548" cy="190" r="81" fill="#f9b339"/>
+  <circle cx="802" cy="228" r="80" fill="#92609d"/>
+  <!-- Cuerpos (forman la M) -->
+  <path fill="#3a879e" d="M192 325 C380 322 535 430 542 585 C470 512 400 472 326 448 L326 710 L192 770 Z"/>
+  <path fill="#92609d" d="M904 325 C716 322 561 430 554 585 C626 512 696 472 770 448 L770 710 L904 770 Z"/>
+  <path fill="#f9b339" d="M390 330 C480 282 615 282 705 330 C630 365 575 410 548 483 C521 410 466 365 390 330 Z"/>
+  <!-- Libro abierto -->
+  <path fill="#749d5b" d="M352 578 C455 580 538 645 542 778 C482 726 420 706 352 703 Z"/>
+  <path fill="#749d5b" d="M744 578 C641 580 558 645 554 778 C614 726 676 706 744 703 Z"/>
+</svg>

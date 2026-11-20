@@ -18,7 +18,7 @@ assets/           logo, favicon, fotos
 Los textos son de ejemplo: revisar misión, cursos (nombres, horas, semanas) y "Quiénes somos" con la información real. Además:
 
 - [x] Link al aula virtual: https://minka.milaulas.com/login/index.php
-- [ ] Logo → `assets/logo.png` y actualizar el `<img>` del header.
+- [x] Logo: `assets/logo-marca.svg` (personitas, header y favicon) y `assets/logo-completo.jpg`.
 - [ ] Foto del equipo → `assets/equipo.jpg` y reemplazar el `.photo-placeholder` en "Quiénes somos".
 - [ ] Foto de portada (`assets/hero.jpg`): reemplazarla por una versión con licencia de uso y mayor resolución (ideal ≥ 1200 px de ancho).
 - [ ] Correo y teléfono reales (los actuales son de ejemplo).
